@@ -1,0 +1,45 @@
+body {
+  background-color: #EAF6F6;
+}
+
+.head {
+  background-color: #9fe6a0;
+  width: 100%;
+  color: white;
+}
+
+.head:hover {
+  background-color: #94ebcd;
+}
+
+.about {
+  list-style: none;
+  text-align: center;
+  font-style: normal;
+}
+
+.company {
+  letter-spacing: 8px;
+  font-style: arial;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #ff8303;
+  border-width: 5px;
+  width: 5%;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+.tablbody {
+  border: 2px solid #34656d;
+  width: 100%;
+  padding: 5%;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+}
